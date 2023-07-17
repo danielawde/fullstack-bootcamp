@@ -4,7 +4,7 @@
 
    - A. `<head>`
    - B. `<title>`
-   - C. `<header>`
+   - C. **`<header>`**
    - D. `<meta>`
 
 2. **CSS**: What does CSS stand for?
